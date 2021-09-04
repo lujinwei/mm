@@ -1,26 +1,29 @@
 # music163
 
 ## 启动服务器
-进入NeteaseCloudMusicApi-master文件夹
+进入NeteaseCloudMusicApi-master文件夹,运行下面命令
+```
+$node app.js
+```
 
 ## Project setup
 ```
-npm install
+$npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+$npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+$npm run build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+$npm run lint
 ```
 
 ### Customize configuration
@@ -32,4 +35,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 $npm i vant -S
 $npm i @better-scroll/core -S
-npm install swiper@5.3.6 -S
+$npm install swiper@5.3.6 -S
