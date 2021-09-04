@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #002B36;
+}
+
+.box{
+    max-width: 750px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 22px;
+    font-weight: normal;
+}
+h2{
+    font-size: 20px;
+    font-weight: normal;
+}
+h3{
+    font-size: 18px;
+    font-weight: normal;
+}
+h4{
+    font-size: 16px;
+    font-weight: normal;
+}
+h5{
+    font-size: 14px;
+}
+h6{
+    font-size: 12px;
+    font-weight: normal;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
