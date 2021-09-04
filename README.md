@@ -1,5 +1,8 @@
 # music163
 
+## 启动服务器
+进入NeteaseCloudMusicApi-master文件夹
+
 ## Project setup
 ```
 npm install
