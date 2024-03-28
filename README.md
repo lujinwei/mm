@@ -1,4 +1,4 @@
-# music163
+# mm
 
 ## 启动服务器
 进入NeteaseCloudMusicApi-master文件夹,运行下面命令
